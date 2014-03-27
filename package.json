@@ -1,0 +1,22 @@
+{
+  "name": "local-hub",
+  "description": "A command line interface to run browser tests over BrowserStack automate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dhimil/local-hub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhimil/local-hub.git"
+  },
+  "dependencies": {
+    "agentkeepalive": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "author": {
+    "name": "Dhimil",
+    "email": "dhimil@gmail.com"
+  }
+}
